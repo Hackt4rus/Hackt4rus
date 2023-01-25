@@ -32,17 +32,16 @@
 
 
 
-
-
-
-
 ### Operating Systems
 <div align="left">
 <a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png" alt="Windows" height="50" /></a>  
 <a href="https://help.ubuntu.com/stable/ubuntu-help/index.html.en" target="_blank"><img style="margin: 10px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" height="50" /></a>
+<a href="https://www.kali.org/docs/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Kali" height="50" /></a>
+<a href="https://www.apple.com/macos/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/2060px-MacOS_logo_%282017%29.svg.png" alt="macOS" height="50" /></a>
+<a href="https://www.apple.com/ios/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/2048px-IOS_logo.svg.png" alt="iOS" height="50" /></a>
+<a href="https://www.android.com/intl/en_en/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/2346px-Android_logo_2019_%28stacked%29.svg.png" alt="Android" height="50" /></a>
   
 </div>
-
 
 
 
