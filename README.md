@@ -39,7 +39,7 @@
 ### Operating Systems
 <div align="left">
 <a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png" alt="Windows" height="50" /></a>  
-  
+<a href="https://help.ubuntu.com/stable/ubuntu-help/index.html.en" target="_blank"><img style="margin: 10px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" height="50" /></a>
   
 </div>
 
