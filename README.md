@@ -16,7 +16,6 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 
 
@@ -30,11 +29,16 @@
 </div>
 <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a>
 
-</td><td valign="top" width="33%">
 
 
 
-</td><td valign="top" width="33%">
+
+
+
+### Operating Systems
+
+
+https://www.microsoft.com/it-it/software-download/
 
 
 
@@ -46,7 +50,6 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
 
-</td></tr></table>  
 
 <br/>  
 
