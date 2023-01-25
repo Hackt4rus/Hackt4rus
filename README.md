@@ -9,7 +9,7 @@
 - 🔒 Cybersecurty & Ethical Hacking enthusiast  
   
 
-- 📪 Contact me: https://www.linkedin.com/in/carmeloballone/  
+- 📪 Connect with me: https://www.linkedin.com/in/carmeloballone/  
   
 
 <br/>  
@@ -55,19 +55,15 @@
 </div>
 
 
-<br/>  
+### Some Tools
+<div align="left">
+<a href="https://portswigger.net/burp" target="_blank"><img style="margin: 10px" src="https://www.wst.space/wp-content/uploads/2018/08/output-onlinepngtools.png" alt="burp" height="50" /></a>
+<a href="https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape" target="_blank"><img style="margin: 10px" src="https://www.cybertriage.com/wp-content/uploads/2022/06/Cyber-Triage-Digital-Forensics-Tool-Integration-with-KAPE.png" alt="kape" height="50" /></a>
+<a href="https://www.autopsy.com/" target="_blank"><img style="margin: 10px" src="https://d7umqicpi7263.cloudfront.net/img/product/9d4ccf9c-09cb-4a76-84da-e50fca281e58/108df64d-c341-461d-a9b4-b5065b45a7d1.png" alt="autopsy" height="50" /></a>
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/KarmBallone" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/carmeloballone" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
   
+  
+</div>
 
 <br/>  
 
